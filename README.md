@@ -1,5 +1,5 @@
 ### 안녕하세요 강동석입니다.👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgitrinia)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-DS)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=gitrinia&show_icons=true&hide_border=true)](https://github.com/gitrinia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitrinia&layout=compact)](https://github.com/gitrinia)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Kang-DS&show_icons=true&hide_border=true)](https://github.com/Kang-DS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-DS&layout=compact)](https://github.com/Kang-DS)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=C&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
