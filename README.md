@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Kang-DS&show_icons=true&hide_border=true)](https://github.com/Kang-DS)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-DS&layout=compact)](https://github.com/Kang-DS)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-3DDC84?style=flat-square&logo=C&logoColor=white"/></a>
