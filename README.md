@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Kang%20Dong%20Seok&fontColor=ffffff&fontSize=70&animation=fadeInk&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Dongseok's%20github&fontColor=ffffff&fontSize=70&animation=fadeInk&height=180)
 ### 📚 Technology Stack
 <p>
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
