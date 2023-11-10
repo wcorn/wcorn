@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Docker-1597E5?style=flat-plastic&logo=Docker&logoColor=white"/>
 </p>
 
-### 🏆 Cards 
+### 🏆 Card 
 <p>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwcorn)](https://hits.seeyoufarm.com)
