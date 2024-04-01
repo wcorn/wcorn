@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/-Redis-F58840?style=flat-plastic&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-1597E5?style=flat-plastic&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-%3333333.svg?style=flat-plastic&logo=Apache Kafka&logoColor=white"> 
 </p>
 
 ### 🏆 Card 
