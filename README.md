@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Dongseok's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&height=180)
 ### 📚 Tech
 <p>
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/><br/>
