@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF"><br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-1597E5?style=flat-plastic&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-1597E5?style=flat-plastic&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-%3333333.svg?style=flat-plastic&logo=Apache Kafka&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
