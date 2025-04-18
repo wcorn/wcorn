@@ -16,17 +16,15 @@
 <img src="https://img.shields.io/badge/Github_Action-0c70fe?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vault-020715?style=flat-square"/>
   <br/>
-<img src="https://img.shields.io/badge/Promtail-ffa500?style=flat-square"/>
 <img src="https://img.shields.io/badge/Grafana-ffa500?style=flat-square"/>
 <img src="https://img.shields.io/badge/Loki-ffa500?style=flat-square"/>
 <img src="https://img.shields.io/badge/Prometheus-ffa500?style=flat-square"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square"/>
 </p>
 
 ### 🏆 Card 
 <p>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwcorn)](https://hits.seeyoufarm.com)
-
 [![wcorn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wcorn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wcorn)
 
 </p>
